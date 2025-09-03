@@ -4,6 +4,8 @@
  */
 package conversordetemperatura;
 
+import Vistas.Conversor;
+
 /**
  *
  * @author abate
@@ -15,6 +17,7 @@ public class ConversorDeTemperatura {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Conversor.main(args);
     }
     
 }
