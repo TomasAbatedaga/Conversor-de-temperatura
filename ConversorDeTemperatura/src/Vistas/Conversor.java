@@ -73,7 +73,6 @@ public class Conversor extends javax.swing.JFrame {
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
                 new Conversor().setVisible(true);
-                
             }
         });
     }
